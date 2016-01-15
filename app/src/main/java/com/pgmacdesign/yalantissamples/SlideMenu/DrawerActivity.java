@@ -27,6 +27,7 @@ import yalantis.com.sidemenu.model.SlideMenuItem;
 import yalantis.com.sidemenu.util.ViewAnimator;
 
 /**
+ * Drawer Activity
  * Created by PatrickSSD2 on 1/14/2016.
  */
 public class DrawerActivity extends ActionBarActivity implements ViewAnimator.ViewAnimatorListener {
